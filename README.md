@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**oswyongie/oswyongie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa d4 teknik informatika di politeknik negeri bandung . Dengan ketertarikan yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan potensi saya dalam penguasaan ilmu ilmu informatika.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kepakaran
+
+- **Bahasa C**: Pengalaman dalam melakukan pemograman dengan bahasa c. Saya saya berhasil mengembangkan aplikasi sederhana berbasis C. 
+
+
+## Pendidikan
+
+- SDIT Insan Kamil (lulus 2017)
+- MTs Husnul Khotimah (lulus 2020)
+- MA Husnul Khotimah (lulus 2023)
+- Politeknik Negeri Bandung (sekarang)
+
+## Proyek dan Kontribusi
+
+Saya telah berkontribusi pada berbagai proyek yang melibatkan penggunaan bahasa pemograman c/c++. Beberapa highlight termasuk:
+
+- Tugas Besar Mata kuliah Dasar Dasar Pemograman
+
+
+## Menghubungi Saya
+
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+
+- Email: [nadia.rachma.tif423@polban.ac.id](mailto:nadia.rachma.tif423@polban.ac.id)
+
+
+Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk memengembangkan keahlian dalam bidang informatika!

@@ -1,5 +1,5 @@
 # Hi there 👋
-
+----
 ## Tentang Saya
 
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa d4 teknik informatika di politeknik negeri bandung . Dengan ketertarikan yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan potensi saya dalam penguasaan ilmu ilmu informatika.

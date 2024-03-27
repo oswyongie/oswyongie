@@ -31,3 +31,6 @@ Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk memengembangkan keahlian dalam bidang informatika!
+
+> Ini adalah blok kutip.
+
